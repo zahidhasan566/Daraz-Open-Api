@@ -4,7 +4,7 @@ class accessTokenCreate
     //Developer:MD Zahid Hasan
 //    Email:jahid1234.jh@gmail.com
 //    API USED FOR: Daraz Open API Used For Seller Data
-//      Steps: 1.Seller Authentication Access Token Create
+//      Steps: Seller Authentication Access Token Create
 //
 
     public $appkey = "Your App key";
